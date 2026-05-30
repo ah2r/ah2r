@@ -43,7 +43,7 @@
 	<img
 		width="800"
 		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=OuterScripts&theme=tokyonight&no-bg=true&hide_border=true"
+		src="https://github-readme-streak-stats.herokuapp.com/?user=ah2r&theme=tokyonight&no-bg=true&hide_border=true"
 	/>
 </div>
 
@@ -66,7 +66,7 @@
 		<img
 			width="800"
 			align="center"
-			src="https://github-profile-trophy.vercel.app/?username=OuterScripts&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
+			src="https://github-profile-trophy.vercel.app/?username=ah2r&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-frame=true"
 		/>
 	</a>
 </div>
@@ -75,9 +75,8 @@
 <h2 align="center">
 	<div>
 		<img
-			src="https://komarev.com/ghpvc/?username=OuterScripts&color=979797&style=for-the-badge&label=Profile+Views"
+			src="https://komarev.com/ghpvc/?username=ah2r&color=979797&style=for-the-badge&label=Profile+Views"
 			alt="Profile Views"
 		/>
 	</div>
 </h2>
-<h3 align="center">Noob Developer</h3>
