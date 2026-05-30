@@ -53,7 +53,7 @@
 	<img
 		width="800"
 		align="center"
-		src="https://streak-stats.demolab.com?user=OuterScripts&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
+		src="https://streak-stats.demolab.com?user=ah2r&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"
 	/>
 </div>
 
